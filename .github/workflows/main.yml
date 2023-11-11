@@ -1,4 +1,4 @@
-name: node_app
+name: rust-crud-api
 
 on:
   push:
